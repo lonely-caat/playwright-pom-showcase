@@ -4,7 +4,7 @@ To run the tests locally, please proceed as follows:
 
     Clone the repository.
     Ensure you have node.js installed. If not, obtain it from the official website.
-    Execute npm install to install the required node modules.
+    Execute *npm install* to install the required node modules.
     You are now set to run tests using npm run test, which will execute tests in three browsers (Chromium, Firefox, Webkit) simultaneously.
 
-For headed mode testing, modify the playwright.config.js to set headless: false.
+For headed mode testing, modify the *playwright.config.js* to set *headless: false*.
